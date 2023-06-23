@@ -1,3 +1,8 @@
+#Eduarda Negreiros
+#Fabiane Cruz
+#Jennifer Rebeca 
+#Tamily Fernanda
+
 # calculadora_flutteeer
 
 A new Flutter project.
